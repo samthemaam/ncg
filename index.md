@@ -6,7 +6,7 @@ pageclass: home
 
 ## Your Community Garden
 
-The Nyack Community Garden is a community-based, non-profit organization
+The Nyack Community Garden is a community-based organization
 that provides residents of the Nyack School District with an opportunity
 to grow vegetables and flowers in a friendly environment. Using land
 provided by the [Robert Martin Company](http://robertmartincompany.com)
@@ -26,7 +26,7 @@ The vital support of the [Robert Martin
 Company](http://robertmartincompany.com), in concert with the Community
 Housing Management Corporation, is greatly appreciated.
 
-<img src="/images/undated from NPL 11.01.29.jpeg" alt="Early photo of the garden around 1980, in the snow" width="600"/>
+![Alt Early photo of the garden around 1980, in the snow](/images/undated from NPL 11.01.29.jpeg)
 
 *Early photograph of Garden when surrounded by snow fence. Probably taken around 1980. Collection of Nyack Public Library.*
 
