@@ -26,7 +26,7 @@ The vital support of the [Robert Martin
 Company](http://robertmartincompany.com), in concert with the Community
 Housing Management Corporation, is greatly appreciated.
 
-![Alt Early photo of the garden around 1980, in the snow](/images/undated from NPL 11.01.29.jpeg)
+![Alt Early photo of the garden around 1980, in the snow](/images/undated from NPL 11.01.29.jpeg=600x)
 
 *Early photograph of Garden when surrounded by snow fence. Probably taken around 1980. Collection of Nyack Public Library.*
 
