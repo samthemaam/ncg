@@ -214,6 +214,7 @@ body.files .header{
 
 body.home li.home a,
 body.garden-dates li.garden-dates a,
+body.how-to-apply li.how-to-apply a,
 body.garden-rules li.garden-rules a,
 body.info li.info a,
 body.blog li.blog a,
@@ -287,6 +288,9 @@ textarea {
 	body.garden-dates .header {
     	background-size: 130%;
 	}
+	body.how-to-apply .header {
+    	background-size: 130%;
+	}
 	body.garden-rules .header {
 	 	background-size: 120%;
 	 	background-position: 0 10%;
@@ -336,7 +340,11 @@ textarea {
 	 	background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
     	background-size: 110%;
 	}
-	body.garden-rules .header {
+	body.how-to-applys .header {
+		background: url(/images/fruit-vegetable-pile-full-colours-vitamines-34735357.jpg) center repeat;
+	   background-size: 110%;
+   }
+   body.garden-rules .header {
 	 	background: url(/images/organic-vegetable-garden-bed-18733837.jpg) center repeat;
     	background-size: 100%;
 	}
