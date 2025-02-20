@@ -6,7 +6,7 @@ pageclass: info
 
 The Nyack Community Garden is a community based organization that provides residents of the Nyack with an opportunity to grow vegetables and flowers in a friendly environment. Using land provided by the [Robert Martin Company](http://robertmartincompany.com) in downtown Nyack, the garden donates surplus vegetables to local charities and enhances the beauty of our town.
 
-The Nyack Community Garden is on [South Franklin Street between Depew and Hudson Avenues](http://www.openstreetmap.org/?minlon=-73.9218139648438&minlat=41.0889358520508&maxlon=-73.9215545654297&maxlat=41.0897102355957). The garden’s members plant vegetables, fruits, and flowers in their individual plots and assist in the management and maintenance of the whole garden including surrounding flower beds. Many donate to local food banks through the garden’s "Plant a Row for the Hungry" committee.
+The Nyack Community Garden is on [South Franklin Street between Depew and Hudson Avenues](http://www.openstreetmap.org/?minlon=-73.9218139648438&minlat=41.0889358520508&maxlon=-73.9215545654297&maxlat=41.0897102355957). The garden’s members plant vegetables, fruits, and flowers in their individual plots and assist in the management and maintenance of the whole garden including surrounding flower beds. Many donate to local food banks through the garden’s "Plant a Row" committee.
 
 <img src="/images/undated from NPL 11.01.29.jpeg" alt="Early photo of the garden around 1980, in the snow" width="600"/>
 
