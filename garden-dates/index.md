@@ -19,8 +19,6 @@ published: true
 
 ***Sunday March 30*** Garden opens!
 
-***March 30 - November 2*** Planting, growing, maintaining and harvesting
-
 ***Sunday May 18*** Deadline for fully planting plots
 
 ***Sunday May 25*** Unplanted plots assigned to gardeners on the waiting list
