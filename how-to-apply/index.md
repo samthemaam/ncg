@@ -9,3 +9,5 @@ The Garden is open to people in the Nyack School District. To apply for a plot i
 - Your name
 - Your address
 - Your telephone number
+
+Membership is open to residents of the Nyack School District who are 18 years or older. New gardeners are eligible for ½ plots which are approximately 90 square feet and cost $40, subject to availability. A full plot is 180 square feet, costs $50 for a season, and is available to gardeners who were in the garden the previous year and maintained their plots. Applicants get placed on a waiting list, and their position on the waiting list is determined by postmark date of their application. Each year some gardeners will not return to the garden, so spots open up each season for new gardeners.
