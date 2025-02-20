@@ -16,4 +16,4 @@ Returning gardeners will get the plot they had in the previous year.
 
 Applicants who were not in the Garden the previous year are eligible for ½ plots which are approximately 90 square feet and cost $40, subject to availability. These applicants get placed on a waiting list, and their position on the waiting list is determined by postmark date of their application. Each year some gardeners will not return to the garden, so plots open up each season for new gardeners.
 
-A full plot is about 180 square feet, costs $50 for a season, and may be available to gardeners who were in the Garden the previous year in a ½ plot, worked on committees, and maintained their plots. There is no guarantee on getting a full plot though, because there is always a waiting list.
+A full plot is about 180 square feet, costs $50 for a season, and may be available to gardeners who were in the Garden the previous year in a ½ plot, worked on committees, and maintained their plots. There is no guarantee on getting a full plot though, because the Garden prioritizes bringing in new gardeners over upgrading to half plots.
