@@ -16,7 +16,7 @@ Founded in the mid 1970's (see [an article about our garden's history](/pdf/News
 
 Membership is open to residents of the Nyack School District who are 18 years or older. See [How to Apply](/how-to-apply/) for the details.
 
-All gardeners must obey the [rules](/garden-rules/), assist with the running and care of the garden, and serve on a [garden committee](/pdf/Committee_Descriptions_2019.pdf) by providing at least 6 hours of work for that committee.
+All gardeners must follow the [rules](/garden-rules/), assist with the running and care of the garden, and serve on a [garden committee](/pdf/Committee_Descriptions_2019.pdf) by providing at least 6 hours of work for that committee.
 
 At the Nyack Community Garden each plot is unique, displaying the diversity of Nyack. Visitors to Nyack enjoy strolling by the garden experiencing its diverse colors and fragrances, viewing its horticultural variety, and chatting with industrious gardeners.
 
