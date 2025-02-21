@@ -33,4 +33,4 @@ the garden.
 19. No dogs are allowed in the garden with the exception of service animals trained to aid a
 disabled person.
 
-**Failure to adhere to the rules and regulations at any time may result in the loss of garden membership or other penalties.**
+**Failure to adhere to the rules and regulations at any time may result in the loss of garden membership.**
