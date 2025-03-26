@@ -4,6 +4,8 @@ title: How to Apply
 pageclass: how-to-apply
 ---
 
+The Garden is full, and we have a waiting list, so we will not be accepting more applications this year, but check back in 2026.
+
 To apply for a plot in the  Nyack Community Garden please email [membership@nyackcommunitygarden.info](mailto:membership@nyackcommunitygarden.info). In your email please include:
 
 - Your full name
