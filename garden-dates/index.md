@@ -19,6 +19,12 @@ published: true
 
 ***Sunday March 30*** Garden opens!
 
+***Sunday April 13 at 9 AM*** Ask A Gardener, bring your questions, we'll plant and talk
+
+***Sunday April 27 at 9 AM*** Ask A Gardener, bring your questions, we'll plant and talk
+
+***Saturday May 17*** Seedling Sale at the Garden 9-12, the proceeds go to charity
+
 ***Sunday May 18*** Deadline for fully planting plots
 
 ***Sunday May 25*** Unplanted plots assigned to gardeners on the waiting list
