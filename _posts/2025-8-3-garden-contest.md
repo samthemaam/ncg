@@ -34,3 +34,5 @@ Best Veggie and Flower Garden
     3rd Place Vivienne Von Wiederhold & Alicyn Mindel
 
 Prizes will be given at our annual potluck dinner so please make sure to put it on your [calendar](/garden-dates/index.md).
+
+[Garden Contest judges](/images/2025Contest.jpg)
