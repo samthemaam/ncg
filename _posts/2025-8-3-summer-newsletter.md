@@ -4,7 +4,7 @@ pageclass: blog
 title: "Newsletter for Summer 2025"
 published: true
 ---
-Check out our [Summer 2025 newsletter](/pdf/Newsletter Summer 2025.pdf), the 50th Anniversary
+Check out our [Summer 2025 newsletter](/pdf/Newsletter 2025 Summer.pdf), the 50th Anniversary
 issue!
 
 We have articles about teaching children about the garden, interviews with garden members, information about
