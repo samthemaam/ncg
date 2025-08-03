@@ -35,4 +35,4 @@ Best Veggie and Flower Garden
 
 Prizes will be given at our annual potluck dinner so please make sure to put it on your [calendar](/garden-dates/).
 
-[Garden Contest judges](/images/2025Contest.jpg)
+![Garden Contest judges](/images/2025Contest.jpg)
