@@ -33,6 +33,6 @@ Best Veggie and Flower Garden
     2nd Place Donna Hudson
     3rd Place Vivienne Von Wiederhold & Alicyn Mindel
 
-Prizes will be given at our annual potluck dinner so please make sure to put it on your [calendar](/garden-dates/index.md).
+Prizes will be given at our annual potluck dinner so please make sure to put it on your [calendar](/garden-dates/).
 
 [Garden Contest judges](/images/2025Contest.jpg)
