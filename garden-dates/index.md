@@ -37,8 +37,6 @@ published: true
 
 ***Saturday August 23 at 9 AM*** End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 24)
 
-***Saturday September 6 4—6 PM*** NCG 50th ANNIVERSARY PARTY!!!! (Rain date Sunday September 7 4—6pm)
-
 ***Thursday September 25 at 7 PM*** Pot Luck Dinner, at the Nyack Senior Center (90 Depew Ave.), with prizes awarded to contest winners and free raffle for attendees
 
 ***Saturday October 18 at 9 AM*** Fall Clean Up (Rain data October 18)
