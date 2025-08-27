@@ -39,7 +39,7 @@ published: true
 
 ***Thursday September 25 at 7 PM*** Pot Luck Dinner, at the Nyack Senior Center (90 Depew Ave.), with prizes awarded to contest winners and free raffle for attendees
 
-***Saturday October 18 at 9 AM*** Fall Clean Up (Rain data October 18)
+***Saturday October 18 at 9 AM*** Fall Clean Up (Rain date October 18)
 
 ***Sunday November 2*** Garden closes - Gardeners must fully clear plots
 
