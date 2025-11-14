@@ -43,7 +43,7 @@ published: true
 
 ***Sunday November 2*** Garden closes - Gardeners must fully clear plots
 
-***Sunday November 9 at 8 AM*** Winter prep and clean-up by the End of Season Cleanup Committee
+***Saturday November 15 at 8 AM*** Winter prep and clean-up by the End of Season Cleanup Committee
 
 <!--
 ***January 30*** Applications emailed out
