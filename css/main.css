@@ -10,6 +10,13 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+/* Prevent blog post code blocks (often from indented Markdown) from overflowing on mobile */
+.blog pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
 html, body, p, div, ul, li, h1, h2, h3, h4 {
 	margin: 0;
 	padding: 0;
