@@ -17,6 +17,19 @@ img {
   overflow-wrap: anywhere;
 }
 
+/* Blog divider should be responsive and not float */
+.post-divider {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 10px auto;
+}
+
+/* Simple clear for safety */
+.clearfix {
+  clear: both;
+}
+
 html, body, p, div, ul, li, h1, h2, h3, h4 {
 	margin: 0;
 	padding: 0;
