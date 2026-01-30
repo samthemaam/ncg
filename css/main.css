@@ -419,10 +419,12 @@ ul.posts li {
 }
 
 .bannerbox {
-    width: 550px;
-    /* width: 60%; */
+max-width: 550px;
+width: 100%;
+box-sizing: border-box;
+    
     padding: 15px;
-    margin: 15px;
+    margin: 15px auto;
     /* font color: */
     /* color: white; */
     background-color: #4CE2B5;
