@@ -1,3 +1,3 @@
 # NCG
 
-Jekyll site for the Nyack Community Garden.
+Public Jekyll site for the Nyack Community Garden.
